@@ -121,7 +121,7 @@ dependencies {
     minecraft 'net.minecraftforge:forge:1.16.5-36.2.34'
 
     // You may put jars on which you depend on in ./libs or you may define them like so..
-compileOnly fg.deobf("baritone:baritone-api:1.2.14")
+compileOnly fg.deobf("cabaletta:baritone-api:1.2.14")
     // compile "some.group:artifact:version:classifier"
     // compile "some.group:artifact:version"
 
